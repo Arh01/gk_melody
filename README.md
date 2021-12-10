@@ -1,2 +1,6 @@
-# gk_melody
-Учебный проект Glo Academy
+# gk_melody - Учебный проект Glo Academy
+
+## Технологии
+- html
+- css
+- javascript
